@@ -16,14 +16,15 @@ As root.
 ## Starting vimtutor
 
 	'$ vimtutor' 
+
 And follow the tutorial.
 
-Depending on the time you spend on experimentation, this tutorial should take between 25-35 minutes.
+Depending on the time you spend with experimentation, this tutorial should take between 25-35 minutes.
 
 
-## I use [Jekyll](http://jekyllrb.com) for this site 
+## I use [Jekyll](http://jekyllrb.com) for generating this site.
 
-
+================================================================================
     
 ### Posts
 
