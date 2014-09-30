@@ -8,13 +8,15 @@ tagline: And Strengthens his VIM skills
 ## I use vim
 I am sure you we all have our favorite text-editors, but here is the man page for a wonderful commandline text editor called [vimtutor](http://linuxcommand.org/man_pages/vimtutor1.html).  Vimtutor has drastically increased my editing speeds.
 
-## Installing vim?
+## Installing vim
 As root.
+
 	'$ apt-get install vim'
 
 ## Starting vimtutor
 
-	'$ vimtutor' And follow the tutorial.
+	'$ vimtutor' 
+And follow the tutorial.
 
 Depending on the time you spend on experimentation, this tutorial should take between 25-35 minutes.
 
