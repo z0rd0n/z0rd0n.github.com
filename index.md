@@ -1,36 +1,33 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Andrew Learns Jekyll
+tagline: And Strengthens his VIM skills 
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+## I use vim
+I am sure you we all have our favorite text-editors, but here is the man page for a wonderful commandline text editor called[vimtutor](http://linuxcommand.org/man_pages/vimtutor1.html).  Vimtutor has drastically increased my editing speeds.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+# Installing vim?
+As root.
+'$ apt-get install vim'
 
-## Update Author Attributes
+# Starting vimtutor
 
-In `_config.yml` remember to specify your own data:
+'$ vimtutor' And follow the tutorial.
+
+Depending on the time you spend on experimentation, this tutorial should take between 25-35 minutes.
+
+
+## I use [Jekyll](http://jekyllrb.com) for this site 
+
+
     
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+### Posts
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+This blog will eventually facilitate some of my projects, intrests, and life.
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
+Here's my "posts list".
 
 <ul class="posts">
   {% for post in site.posts %}
