@@ -8,9 +8,9 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Z Adventure Log
-tagline: Z0rd0n's Adventures
-author :
+title : Z0rd0n Portal
+tagline: A gateway to Andrew's adventures
+author : z0rd0n
   name : Andrew Scott
   email : tmbrwlf103@gmail.com
   github : z0rd0n 

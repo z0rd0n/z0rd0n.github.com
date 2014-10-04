@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Andrew Learns Jekyll
-tagline: And Strengthens his VIM skills 
+title: Z0rd0n Portal
+tagline: Gateway to Andrew Scott sites 
 ---
 {% include JB/setup %}
 
