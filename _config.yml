@@ -10,5 +10,4 @@ facebook_username: TrikBomb
 # Build settings
 markdown: kramdown
 permalink: pretty
-paginate: 5
 exclude: ["node_modules"]

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Z0rd0n Portal
-tagline: Gateway to Andrew Scott sites 
+title: My name is Andrew Scott and I'm a explorer.
+tagline: A work in progress...
 ---
 {% include JB/setup %}
 
