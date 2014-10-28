@@ -1,32 +1,18 @@
 ---
 layout: page
-title: My name is Andrew Scott and I'm a explorer.
+title: Flex on the World.
 tagline: A work in progress...
 ---
 {% include JB/setup %}
 
-## I use vim
-I am sure you we all have our favorite text-editors, but here is the man page for a wonderful commandline text editor called [vimtutor](http://linuxcommand.org/man_pages/vimtutor1.html).  Vimtutor has drastically increased my editing speeds.
+##The author and Maxwell.
 
-## Installing vim
-As root.
-
-	'$ apt-get install vim'
-
-## Starting vimtutor
-
-	'$ vimtutor' 
-
-And follow the tutorial.
-
-Depending on the time you spend with experimentation, this tutorial should take between 25-35 minutes.
-
+![Alt text](/assets/andrew_max_intruck.jpg "Author and Dog")
 
 ## I use [Jekyll](http://jekyllrb.com) for generating this site.
 
-================================================================================
     
-### Posts
+## Posts
 
 This blog will eventually facilitate some of my projects, intrests, and life.
 
@@ -38,7 +24,7 @@ Here's my "posts list".
   {% endfor %}
 </ul>
 
-## To-Do
+### To-Do
 
 - Skills
 - Book list
