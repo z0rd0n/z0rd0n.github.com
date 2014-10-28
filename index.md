@@ -9,9 +9,7 @@ tagline: A work in progress...
 
 ![Alt text](/assets/andrew_max_intruck.jpg "Author and Dog")
 
-## I use [Jekyll](http://jekyllrb.com) for generating this site.
 
-    
 ## Posts
 
 This blog will eventually facilitate some of my projects, intrests, and life.
