@@ -18,7 +18,7 @@ tags: [sailing]
   The Catalina 22 has an astounding track record, because it is made out of strog and flexible fiberglass.  It was also designed by a talented ship designer by the name of Frank V, Butler.
 
 
-Here are some specs on the [Catalina 22](http://sailboatdata.com/viewrecord.asp?class_id=200/).  And this is the basic layout in the drawing below.
+Here are some specs on the [Catalina 22](sailboatdata.com/viewrecord.asp?class_id=200).  And this is the basic layout in the drawing below.
 
 ![Alt text](/assets/catalina_22_drawing.jpg "Catalina 22 drawing from sailboatdata.com")
 
