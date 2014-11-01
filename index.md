@@ -5,6 +5,10 @@ tagline: A work in progress...
 ---
 {% include JB/setup %}
 
+
+##A message from an infuential person who continues to teach me wonders.
+<iframe width="420" height="315" src="//www.youtube.com/embed/hLkC7ralR30" frameborder="0" allowfullscreen></iframe>
+
 ##The author and Maxwell.
 
 ![Alt text](/assets/andrew_max_intruck.jpg "Author and Dog")
