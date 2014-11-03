@@ -35,8 +35,7 @@ Here's my "posts list".
   {% endfor %}
 </ul>
 
-
-
+I love to read.  If you feel so inclined, you may view my [Amazon book wish list](http://amzn.com/w/1YFQZWFYWSMGA)
 
 ### To-Do
 
