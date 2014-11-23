@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Flex on the World.
+title: Sub specie aeternitatis
 tagline: A work in progress...
 ---
 {% include JB/setup %}
@@ -20,7 +20,7 @@ What distinguishes our species is thought. The cerebral cortex is in a way a lib
 
 ##The author and Maxwell.
 
-![Alt text](/assets/andrew_max_intruck.jpg "Author and Dog")
+![Alt text](http://i.imgur.com/Y1tsC6h.jpg "Author and Dog")
 
 
 ## Posts
