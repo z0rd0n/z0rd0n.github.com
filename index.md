@@ -13,14 +13,14 @@ he is doing, and leaves others to determine whether he is working or playing. To
 
 
 
-##A message from an infuential person who continues to teach me wonders.
+##A message from an infuential person of our time.
 <iframe width="420" height="315" src="//www.youtube.com/embed/hLkC7ralR30" frameborder="0" allowfullscreen></iframe>
 
 What distinguishes our species is thought. The cerebral cortex is in a way a liberation. We need no longer be trapped in the genetically inherited behavior patterns of lizards and baboons: territoriality and aggression and dominance hierarchies. We are each of us largely responsible for what gets put in to our brains. For what as adults we wind up caring for and knowing about. No longer at the mercy of the reptile brain we can change ourselves. Think of the possibilities. --Carl Sagan
 
 ##The author and Maxwell.
 
-![Alt text]http://imgur.com/0DhcSnI "Author and Dog")
+![Alt text](http://imgur.com/0DhcSnI "Author and Dog")
 
 
 ## Posts
