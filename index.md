@@ -20,7 +20,7 @@ What distinguishes our species is thought. The cerebral cortex is in a way a lib
 
 ##The author and Maxwell.
 
-![Alt text](http://i.imgur.com/Y1tsC6h.jpg "Author and Dog")
+![Alt text]http://imgur.com/0DhcSnI "Author and Dog")
 
 
 ## Posts
