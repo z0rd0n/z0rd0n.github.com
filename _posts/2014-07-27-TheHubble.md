@@ -20,9 +20,9 @@ tags: [sailing]
 
 Here are some specs on the [Catalina 22](http://sailboatdata.com/viewrecord.asp?class_id=200).  And this is the basic layout in the drawing below.
 
-![Alt text](assets/catalina_22_drawing.jpg "Catalina 22 drawing from sailboatdata.com")
+![Alt text](/assets/catalina_22_drawing.jpg "Catalina 22 drawing from sailboatdata.com")
 
 
 ###External Links
--	[SailboatData.com]("http://sailboatdata.com/viewrecord.asp?class_id+200/"")
+-	[SailboatData.com](http://sailboatdata.com/viewrecord.asp?class_id+200/)
 -	[Wikipedia](http://en.wikipedia.org/wiki/Catalina_22/)
