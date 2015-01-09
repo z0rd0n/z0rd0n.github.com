@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sub specie aeternitatis
+title: A portal where I log my thoughts, ideas, and learnings
 tagline: A work in progress...
 ---
 {% include JB/setup %}
