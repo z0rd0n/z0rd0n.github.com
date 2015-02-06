@@ -8,9 +8,10 @@ group: navigation
 
 ##[StarStuff-2093](http://starstuff-2093.herokuapp.com/)
 
-##[
+##Delta 3D Printer
+### Comming Soon
 
-
+##[The Hubble](2014/07/27/TheHubble/)
 <!---
 <h2>Current Projects</h2>
 <ul>
