@@ -7,11 +7,9 @@ group: navigation
 {% include JB/setup %}
 
 <!---##[StarStuff-2093](http://starstuff-2093.herokuapp.com/)-->
-##Delta 3D Printer
-(Coming Soon)
+##Delta 3D Printer (Coming Soon)
+##[The Hubble]({% post_url /2014-07-27-TheHubble %})Our sailing experiences
 
-##[The Hubble]({% post_url /2014-07-27-TheHubble %})
-Our sailing experiences
 
 <!---
 <h2>Current Projects</h2>
