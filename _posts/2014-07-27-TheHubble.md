@@ -24,4 +24,4 @@ Here are some specs on the [Catalina 22](http://sailboatdata.com/viewrecord.asp?
 
 
 ###External Links
--	[Wikipedia](http://en.wikipedia.org/wiki/Catalina_22/)
+-	[Wikipedia](http://en.wikipedia.org/wiki/Catalina_22)
